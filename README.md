@@ -9,3 +9,4 @@ I might update the source or just give the executable of that version in the fut
 
 What the new version could look like :
 ![Screenshot](screenshot.png)
+![Screenshot](screenshot1.png)
