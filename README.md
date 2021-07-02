@@ -5,7 +5,7 @@ The source has never been released so I decompiled it with JetBrains dotPeek (Ha
 
 # Updated Version
 Made a new version of the tool (AreDeAre 3) with better UI, some bugs/crashs fixed, new features like searchbar or hash generator, textures viewer (.xtd/.ctd), stringtable files editor (.xst/.cst) and low-level scripts decompiler.
-I might update the source or just give the executable of that version in the future and maybe implement my new high-level scripts decompiler in AreDeAre. I'm also still working on support for "movies" files aka flash aka (.xsf/.csf) and also model viewer..
+I might update the source in the future and maybe implement my new high-level scripts decompiler. I'm also still working on support for "movies" files aka flash aka (.xsf/.csf) and also model viewer..
 
 What the new version could look like :
 ![Screenshot](screenshot.png)
