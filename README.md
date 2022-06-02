@@ -10,3 +10,5 @@ Also working on a new editor based on AreDeAre, this is what it looks like :
 ![Screenshot](screenshot4.png)
 ![Screenshot](screenshot5.png)
 ![Screenshot](screenshot6.png)
+![Screenshot](screenshot7.png)
+![Screenshot](screenshot8.png)
