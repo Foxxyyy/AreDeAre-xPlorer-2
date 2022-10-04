@@ -2,7 +2,7 @@
 RPF editor and archive manager for Red Dead Redemption.
 Credits to XBLToothPick.
 
-Also working on a new editor based on AreDeAre, this is what it looks like :
+Also working on a new editor based on AreDeAre :
 
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
